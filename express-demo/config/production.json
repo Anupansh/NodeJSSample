@@ -1,0 +1,6 @@
+{
+    "name" : "Production Enviornment",
+    "mail" : {
+        "host" : "Prod-main-server"
+    }
+}
